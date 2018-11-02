@@ -15,3 +15,6 @@ http://iiis.tsinghua.edu.cn/~weixu/files/sosp09.pdf
 
 Long Short-Term Memory in Recurrent Neural Networks  (Ph.D.thehis)
 http://www.felixgers.de/papers/phd.pdf
+
+A collection of system log datasets for massive log analysis
+https://github.com/logpai/loghub
